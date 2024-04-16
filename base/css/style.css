@@ -1,0 +1,17 @@
+/*COMENTÁRIO*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cabecalho{
+    background-color: aquamarine;
+    height: 100px;
+    width: auto;    
+}
+h1{
+    font-size: 50px;
+}
+nav{
+    list-style: none;
+}
